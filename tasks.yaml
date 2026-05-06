@@ -40,3 +40,4 @@ spec:
 
         echo "***** Running jasminetests *****"
         npx jasmine
+
